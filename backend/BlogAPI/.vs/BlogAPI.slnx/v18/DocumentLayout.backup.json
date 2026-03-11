@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|c:\\users\\jubil\\source\\repos\\blogapi\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|c:\\users\\jubil\\source\\repos\\blogapi\\blogapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|c:\\users\\jubil\\source\\repos\\blogapi\\blogapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|c:\\users\\jubil\\source\\repos\\blogapi\\blogapi\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|c:\\users\\jubil\\source\\repos\\blogapi\\blogapi\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|c:\\users\\jubil\\source\\repos\\blogapi\\blogapi\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|c:\\users\\jubil\\source\\repos\\blogapi\\blogapi\\dtos\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dtos\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|c:\\users\\jubil\\source\\repos\\blogapi\\blogapi\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dtos\\createpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|c:\\users\\jubil\\source\\repos\\blogapi\\blogapi\\dtos\\postdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dtos\\postdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|c:\\users\\jubil\\source\\repos\\blogapi\\blogapi\\dtos\\postsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dtos\\postsummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|c:\\users\\jubil\\source\\repos\\blogapi\\blogapi\\blogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{37AA9B26-9FA6-43AA-8B56-C06B88FBBFAB}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\blogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\DTOs\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTOs\\CreateCommentDto.cs",
+              "ToolTip": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\DTOs\\CreateCommentDto.cs",
+              "RelativeToolTip": "BlogAPI\\DTOs\\CreateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T20:15:41.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePostDto.cs",
+              "DocumentMoniker": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\DTOs\\CreatePostDto.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTOs\\CreatePostDto.cs",
+              "ToolTip": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\DTOs\\CreatePostDto.cs",
+              "RelativeToolTip": "BlogAPI\\DTOs\\CreatePostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T20:15:12.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\DTOs\\PostDetailDto.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTOs\\PostDetailDto.cs",
+              "ToolTip": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\DTOs\\PostDetailDto.cs",
+              "RelativeToolTip": "BlogAPI\\DTOs\\PostDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T20:14:22.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\DTOs\\PostSummaryDto.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTOs\\PostSummaryDto.cs",
+              "ToolTip": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\DTOs\\PostSummaryDto.cs",
+              "RelativeToolTip": "BlogAPI\\DTOs\\PostSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T20:13:40.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\DTOs\\CommentDto.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTOs\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\DTOs\\CommentDto.cs",
+              "RelativeToolTip": "BlogAPI\\DTOs\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T20:12:41.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:41:10.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\Program.cs",
+              "RelativeToolTip": "BlogAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:33:56.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\Data\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Data\\BlogDbContext.cs",
+              "ToolTip": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\Data\\BlogDbContext.cs",
+              "RelativeToolTip": "BlogAPI\\Data\\BlogDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:32:03.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\Models\\Comment.cs",
+              "RelativeToolTip": "BlogAPI\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:30:34.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Models\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\Models\\BlogPost.cs",
+              "RelativeToolTip": "BlogAPI\\Models\\BlogPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:29:10.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogAPI",
+              "DocumentMoniker": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\BlogAPI.csproj",
+              "RelativeDocumentMoniker": "BlogAPI\\BlogAPI.csproj",
+              "ToolTip": "C:\\Users\\jubil\\source\\repos\\BlogAPI\\BlogAPI\\BlogAPI.csproj",
+              "RelativeToolTip": "BlogAPI\\BlogAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T19:25:11.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

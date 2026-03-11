@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "BlogAPI.Controllers.PostsController",
+    "Method": "GetPosts",
+    "RelativePath": "api/posts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogAPI.Controllers.PostsController",
+    "Method": "CreatePost",
+    "RelativePath": "api/posts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "BlogAPI.DTOs.CreatePostDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogAPI.Controllers.PostsController",
+    "Method": "GetPost",
+    "RelativePath": "api/posts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BlogAPI.Controllers.PostsController",
+    "Method": "AddComment",
+    "RelativePath": "api/posts/{id}/comments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "BlogAPI.DTOs.CreateCommentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
